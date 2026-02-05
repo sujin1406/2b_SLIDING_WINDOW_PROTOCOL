@@ -1,5 +1,5 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## Date: 05-02-2026
+## DATE: 05-02-2026
 ## AIM:
 To implement a program to illustrate the mechanism of sliding window protocol
 ## ALGORITHM:
